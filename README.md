@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Yi Yao 👋
+I’m a Software Engineering student in Universiti Malaya, passionate about building useful, human-centered products.
 
-<!--
-**YIYAO1019/YIYAO1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Toolbox
+**Languages:** TypeScript, JavaScript, Python, SQL  
+**Web:** Next.js (App Router), React, Tailwind, shadcn/ui  
+**Backend/Data:** Node.js, FastAPI, Prisma, Supabase  
+**Infra:** GitHub Actions, AWS Lambda, DynamoDB, Cloudinary  
+**Design:** Figma (design systems, tokens, components)
 
-Here are some ideas to get you started:
+## 🤝 Connect
+- Email: 22004814@siswa.um.edu.my
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
